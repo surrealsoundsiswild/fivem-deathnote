@@ -10,9 +10,9 @@ A simple FiveM script that adds a death note command to your server.
 
 ## Installation
 
-1. Create a folder named `fivem-deathnote` in your FiveM server's resources directory
+1. Create a folder named `deathnote` in your FiveM server's resources directory
 2. Copy all the files from this repository into that folder
-3. Add `start fivem-deathnote` to your server.cfg file
+3. Add `start deathnote` to your server.cfg file
 4. Restart your FiveM server
 
 ## Usage
